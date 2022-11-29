@@ -60,3 +60,8 @@ Follow these instructions:
 ---
 ## Complete the modules
 In order from `0.data_types.ipynb` to `4.exercises.ipynb`
+
+To run code cells, click the run button.
+**Note:** Code cells must be run in order to ensure all downstream variables are generated.
+
+![run code cells](imgs/run_cells.png)
