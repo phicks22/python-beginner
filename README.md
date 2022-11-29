@@ -38,7 +38,7 @@ To open the code in VSCode do the following:
 
 ---
 ## Activating the Conda environment
-Make sure you're in the main directory of the repository (path/to/python-beginner)
+Make sure you're in the main directory of the repository (path/to/python-beginner).
 
 Next, run this in the terminal:
 ```bash
@@ -52,7 +52,7 @@ conda activate python-beginner
 
 Your venv should be good to go.
 
-**Note:** Make sure that VSCode is using your venv as the kernal for the Jupyter files
+**Note:** Make sure that VSCode is using your venv as the kernel for the Jupyter files.
 
 Follow these instructions:
 ![kernel setup](imgs/kernel_setup.png)
