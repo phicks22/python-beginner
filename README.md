@@ -1,7 +1,7 @@
 # Fundamentals of Python (some of them)
 ---
 ## Installing things
-You'll need an IDE that can use Jupyter notebook and Conda for this.
+You'll need an Conda and IDE that can use Jupyter notebook for this.
 
 #### IDE
 A good IDE that I use is VSCode. Follow the instructions [here](https://code.visualstudio.com/download) to download.
