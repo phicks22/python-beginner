@@ -38,7 +38,7 @@ To open the code in VSCode do the following:
 
 ---
 ## Activating the Conda environment
-Make sure you're in the main directory of the repository (path/to/python-beginner).
+Make sure you're in the main directory of the repository (`'path/to/python-beginner'`).
 
 Next, run this in the terminal:
 ```bash
@@ -56,3 +56,7 @@ Your venv should be good to go.
 
 Follow these instructions:
 ![kernel setup](imgs/kernel_setup.png)
+
+---
+## Complete the modules
+In order from `0.data_types.ipynb` to `4.exercises.ipynb`
