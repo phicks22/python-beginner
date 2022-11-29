@@ -12,7 +12,7 @@ Conda is a package manager that allows you to create virtual environments that c
 To install conda, go [here](https://www.anaconda.com/products/distribution) and follow the instructions.
 
 ---
-# Download my repository
+## Download my repository
 Open your terminal and move to the directory where you want this repository to live.
 
 Example:
@@ -35,3 +35,24 @@ To open the code in VSCode do the following:
 * File
 * Open Folder
 * Open python-beginner
+
+---
+## Activating the Conda environment
+Make sure you're in the main directory of the repository (path/to/python-beginner)
+
+Next, run this in the terminal:
+```bash
+conda env create -n python-beginner
+```
+
+This will generate a virtual environment (venv) with all necessary packages for this repository. Now we have to activate it:
+```bash
+conda activate python-beginner
+```
+
+Your venv should be good to go.
+
+**Note:** Make sure that VSCode is using your venv as the kernal for the Jupyter files
+
+Follow these instructions:
+![kernel setup](imgs/kernel_setup.png)
