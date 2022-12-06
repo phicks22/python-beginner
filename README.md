@@ -19,7 +19,9 @@ To install conda, go [here](https://www.anaconda.com/products/distribution) and 
 
 ---
 ## Download my repository
-Open your terminal and move to the directory where you want this repository to live.
+Open your terminal and move to the directory where you want this repository to live using the `cd` (change directory) terminal command.
+
+_Side Note_: If you're interested in understanding terminal functions, see this tutorial [here](https://tutorials.codebar.io/command-line/introduction/tutorial.html).
 
 Example:
 ```bash
