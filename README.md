@@ -1,5 +1,11 @@
 # Fundamentals of Python (some of them)
 ---
+## Quick note
+This repository is a work-in-progress. If you run into issues, please submit an issue on my github repo page [here](https://github.com/phicks22/python-beginner/issues).
+
+I used MacOS to install and use everything in this repository. There shouldn't be differences between MacOS and Windows here, but submit an issue if you encounter any.
+
+---
 ## Installing things
 You'll need an Conda and IDE that can use Jupyter notebook for this.
 
