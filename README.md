@@ -45,7 +45,7 @@ To open the code in VSCode do the following:
 * Open python-beginner
 
 ---
-## Activating the Conda environment
+## Activating the Anaconda environment
 Make sure you're in the main directory of the repository (`'path/to/python-beginner'`).
 
 Next, run this in the terminal:
@@ -53,7 +53,7 @@ Next, run this in the terminal:
 conda env create -n python-beginner
 ```
 
-This will generate a virtual environment (venv) with all necessary packages for this repository. Now we have to activate it:
+This will generate a virtual environment with all necessary packages for this repository. Now we have to activate it:
 ```bash
 conda activate python-beginner
 ```
