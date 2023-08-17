@@ -7,13 +7,13 @@ I used MacOS to install and use everything in this repository. There shouldn't b
 
 ---
 ## Installing things
-You'll need Conda and an IDE that can use Jupyter notebook for this.
+You'll need Anaconda and an IDE that can use Jupyter notebook for this.
 
 #### IDE
 A good IDE that I use is VSCode. Follow the instructions [here](https://code.visualstudio.com/download) to download.
 
-#### Conda
-Conda is a package manager that allows you to create virtual environments that contain modules that you need to use for a specific repository. This prevents dependency errors and conflicting package versions.
+#### Anaconda
+Anaconda is a package manager that allows you to create virtual environments that contain modules that you need to use for a specific repository. This prevents dependency errors and conflicting package versions.
 
 To install conda, go [here](https://www.anaconda.com/products/distribution) and follow the instructions.
 
