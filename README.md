@@ -58,9 +58,9 @@ This will generate a virtual environment with all necessary packages for this re
 conda activate python-beginner
 ```
 
-Your venv should be good to go.
+Your environment should be good to go.
 
-**Note:** Make sure that VSCode is using your venv as the kernel for the Jupyter files.
+**Note:** Make sure that VSCode is using your environment as the kernel for the Jupyter files.
 
 Follow these instructions:
 ![kernel setup](imgs/kernel_setup.png)
