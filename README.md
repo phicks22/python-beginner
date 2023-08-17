@@ -7,7 +7,7 @@ I used MacOS to install and use everything in this repository. There shouldn't b
 
 ---
 ## Installing things
-You'll need Anaconda and an IDE that can use Jupyter notebook for this.
+You'll need Conda and an IDE that can use Jupyter notebook for this.
 
 #### IDE
 A good IDE that I use is VSCode. Follow the instructions [here](https://code.visualstudio.com/download) to download.
